@@ -1,0 +1,11 @@
+.menu-item {
+    display: flex;
+    justify-content: space-between; /* This pushes name left and price right */
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.description {
+    width: 100%; /* Keeps description on a new line below name/price */
+    font-style: italic;
+    color: #666;
+}
