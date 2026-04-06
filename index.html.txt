@@ -8,3 +8,18 @@
     <p>I am building this website from scratch.</p>
 </body>
 </html>
+<section class="menu-category">
+    <h2>Appetizers</h2>
+    
+    <div class="menu-item">
+        <span class="item-name">Truffle Fries</span>
+        <span class="price">$12</span>
+        <p class="description">Hand-cut potatoes with parmesan and truffle oil.</p>
+    </div>
+
+    <div class="menu-item">
+        <span class="item-name">Garlic Bread</span>
+        <span class="price">$8</span>
+        <p class="description">Toasted sourdough with herb butter.</p>
+    </div>
+</section>
